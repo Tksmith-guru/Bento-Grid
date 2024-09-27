@@ -311,7 +311,7 @@ h1 {
 @media only screen and (max-width: 840px) {
     .main-cont {
         grid-template-columns: 1fr;
-        grid-template-rows: 271.8px 170.87px 195px 1fr 1fr 180.8px 180px 372.9px;
+        grid-template-rows: 271.8px 170.87px 195px 1fr 1fr 180.8px 180px .;
         grid-template-areas: 
         "second-cd"
         "fourth-cd"
@@ -407,7 +407,7 @@ h1 {
         align-items: center;
         justify-content: center;
         text-align: center;
-        box-sizing: none;
+        box-sizing: border-box;
         padding: 200px 0;
     }
 
@@ -438,6 +438,7 @@ h1 {
         justify-content: center;
         text-align: center;
         padding: 40px 0;
+        box-sizing: content-box;
     }
 
     .cont5 h2 {
