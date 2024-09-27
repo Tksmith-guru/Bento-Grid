@@ -438,7 +438,7 @@ h1 {
         justify-content: center;
         text-align: center;
         padding: 40px 0;
-        box-sizing: content-box;
+        box-sizing: border-box;
     }
 
     .cont5 h2 {
