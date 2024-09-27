@@ -389,16 +389,16 @@ h1 {
         font-weight: 800;
         line-height: 20px;
         width: 100%;
-        margin-bottom: 40px;
+        margin-bottom: 70px;
         margin-top: 0;
     }
 
     .cont3 img {
-        width: 100%;
+        width: 70%;
         max-width: 250px;
         height: 100px;
         position: absolute;
-        bottom: 0;
+        bottom: -20px;
     }
 
     .cont4 {
@@ -445,7 +445,7 @@ h1 {
         font-size: 32px;
         font-weight: 500;
         width: 80%;
-        margin-top: 18px;
+        margin-top: 13px;
         margin-bottom: 13px;
     }
     .cont5 img {
